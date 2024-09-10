@@ -7,7 +7,7 @@ stack {
 terramate {
   config {
     cloud {
-      organization = "appcoreopc" # TODO: fill in your org short name
+      organization = "appcopreopc" # TODO: fill in your org short name
     }
   }
 }
